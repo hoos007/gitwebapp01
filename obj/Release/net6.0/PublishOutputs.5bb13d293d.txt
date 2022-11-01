@@ -1,0 +1,7 @@
+/Users/leehyoseung/cloud/gitDeploy01/bin/Release/net6.0/publish/gitDeploy01
+/Users/leehyoseung/cloud/gitDeploy01/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/leehyoseung/cloud/gitDeploy01/bin/Release/net6.0/publish/appsettings.json
+/Users/leehyoseung/cloud/gitDeploy01/bin/Release/net6.0/publish/gitDeploy01.dll
+/Users/leehyoseung/cloud/gitDeploy01/bin/Release/net6.0/publish/gitDeploy01.deps.json
+/Users/leehyoseung/cloud/gitDeploy01/bin/Release/net6.0/publish/gitDeploy01.runtimeconfig.json
+/Users/leehyoseung/cloud/gitDeploy01/bin/Release/net6.0/publish/gitDeploy01.pdb
